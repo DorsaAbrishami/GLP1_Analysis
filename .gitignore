@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Local secrets
+.env
+kaggle.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs we don't want versioned (uncomment if needed)
+# outputs/figures/
+# outputs/tables/
+# data/processed/

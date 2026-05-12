@@ -1,0 +1,36 @@
+generic_name,reaction,n_reports,median_age_years,pct_female,pct_male,pct_sex_unknown
+albiglutide,Device use error,2699.0,58.0,59.3,40.7,0.9
+albiglutide,Accidental exposure to product,840.0,58.0,53.5,46.5,1.4
+albiglutide,Drug dose omission,662.0,59.0,61.5,38.5,1.2
+albiglutide,Device leakage,620.0,58.0,54.6,45.4,1.3
+albiglutide,Product quality issue,483.0,60.0,55.5,44.5,0.8
+dulaglutide,Nausea,1140.0,57.0,69.7,30.3,2.5
+dulaglutide,Blood glucose increased,440.0,62.0,56.2,43.8,2.5
+dulaglutide,Vomiting,435.0,56.0,67.4,32.6,4.1
+dulaglutide,Diarrhoea,393.0,58.0,59.1,40.9,3.6
+dulaglutide,Injection site pain,379.0,61.0,63.5,36.5,1.6
+exenatide,Blood glucose increased,1307.0,63.3,60.9,39.1,2.2
+exenatide,Weight decreased,999.0,62.5,61.2,38.8,2.6
+exenatide,Nausea,983.0,60.0,71.8,28.2,2.0
+exenatide,Product quality issue,956.0,63.0,55.8,44.2,0.8
+exenatide,Injection site haemorrhage,847.0,62.0,56.3,43.7,0.4
+liraglutide,Nausea,1594.0,55.0,80.0,20.0,1.4
+liraglutide,Vomiting,768.0,53.0,76.3,23.7,0.5
+liraglutide,Pancreatitis,717.0,57.0,62.5,37.5,11.0
+liraglutide,Diarrhoea,585.0,55.0,73.3,26.7,3.4
+liraglutide,Blood glucose increased,578.0,64.0,59.3,40.7,2.2
+lixisenatide,Product dose omission issue,3.0,,100.0,0.0,33.3
+lixisenatide,Dizziness,2.0,48.0,50.0,50.0,0.0
+lixisenatide,Unevaluable event,2.0,,0.0,100.0,50.0
+lixisenatide,Abdominal pain upper,1.0,,100.0,0.0,0.0
+lixisenatide,Accidental underdose,1.0,63.0,100.0,0.0,0.0
+semaglutide,Nausea,2471.0,59.0,72.8,27.2,6.1
+semaglutide,Vomiting,1456.0,57.0,70.5,29.5,4.6
+semaglutide,Diarrhoea,1166.0,60.0,63.6,36.4,3.4
+semaglutide,Off label use,880.0,60.0,70.6,29.4,3.4
+semaglutide,Decreased appetite,750.0,64.0,61.6,38.4,4.4
+tirzepatide,Incorrect dose administered,2538.0,47.0,83.2,16.8,6.3
+tirzepatide,Injection site pain,1266.0,47.0,86.5,13.5,4.9
+tirzepatide,Nausea,1108.0,51.0,83.2,16.8,12.7
+tirzepatide,Off label use,839.0,47.0,86.5,13.5,3.6
+tirzepatide,Extra dose administered,786.0,49.0,82.7,17.3,3.8

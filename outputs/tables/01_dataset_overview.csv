@@ -1,0 +1,9 @@
+dataset,rows,cols,total_nulls,cols_with_nulls
+ae,149209,16,159310,2
+ae_summary,11093,8,2278,1
+stocks,4680,9,0,0
+trends,3500,4,0,0
+trials,1953,11,1816,3
+dictionary,50,4,0,0
+drugs,10,7,6,2
+wiki,9,4,2,1
